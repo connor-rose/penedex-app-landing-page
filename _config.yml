@@ -56,7 +56,7 @@ features                                  :
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : vest-patches
+    fontawesome_icon_name                 : palette
 
  # - title                                 : Smart App Banner
  #   description                           : Display a smart app banner on iOS devices.
